@@ -1,9 +1,9 @@
-Tema: Criação de uma StartUp baseada em Sistemas de Informação
+## Tema: Criação de uma StartUp baseada em Sistemas de Informação
 
 Você deverá assumir o papel de fundador (CEO) e desenvolver uma ideia de startup que utilize dados como principal ativo estratégico.
 
-Etapas da atividade
-1. Problema e Dados (A Escolha do Caos)
+## Etapas da atividade
+## 1. Problema e Dados (A Escolha do Caos)
 Defina um problema real.
 
 Identifique quais dados brutos serão coletados (ex: comportamento de usuários, transações, localização, preferências).
@@ -16,7 +16,7 @@ Origem dos dados
 
 Tipo (estruturado/não estruturado)
 
-2. Processamento (O Sistema)
+## 2. Processamento (O Sistema)
 Explique como o sistema transforma dados em informação:
 
 Coleta → Armazenamento → Processamento → Análise
@@ -33,7 +33,7 @@ Banco de dados
 
 Fluxo da informação
 
-3. Informação e Conhecimento (A Transformação)
+## 3. Informação e Conhecimento (A Transformação)
 Mostre quais descobertas são geradas:
 
 padrões
@@ -44,7 +44,7 @@ previsões
 
 Explique como esses insights ajudam o usuário.
 
-4. Decisão e Valor (A Decisão)
+## 4. Decisão e Valor (A Decisão)
 Que decisões sua solução permite tomar?
 
 Qual o valor de negócio?
@@ -57,7 +57,7 @@ personalização
 
 inovação
 
-5. Representação (Mapa Conceitual)
+## 5. Representação (Mapa Conceitual)
 Crie um mapa conceitual contendo:
 
 Dados → Informação → Conhecimento → Decisão
