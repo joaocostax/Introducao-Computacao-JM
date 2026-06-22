@@ -20,11 +20,12 @@ Atenção: instruções para Entrega no GitHub
 
 A entrega deve ser feita através de um repositório público no GitHub, seguindo os passos abaixo:
 
-Passo 1: Criação do Repositório
+## Passo 1: Criação do Repositório
 
 Crie um repositório com o nome: Introducao-Computacao-Hardware-NomeDoAluno.
 O repositório deve conter um arquivo chamado README.md.
-Passo 2: Estrutura do Arquivo README.md
+
+## Passo 2: Estrutura do Arquivo README.md
 
 O relatório da investigação deve ser escrito em formato Markdown dentro do arquivo principal, contendo:
 
