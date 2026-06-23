@@ -1,4 +1,4 @@
-Passo a Passo – Análise de Protocolos
+## Passo a Passo – Análise de Protocolos
 ## 🔹 Opção 1: Usando o Inspetor do Navegador (F12)
 Abra um navegador (Chrome, Edge ou Firefox).
 Pressione F12 para abrir as ferramentas de desenvolvedor.
