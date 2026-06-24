@@ -44,9 +44,13 @@ A história termina com dicas visuais sobre como identificar um e-mail de phishi
 
 Arquivos:
 conceitos.md – resumo dos atributos da segurança da informação.
+
 ameacas.md – descrição da ameaça phishing.
+
 mecanismos.md – mecanismos de proteção aplicáveis.
+
 hq_phishing.pdf – HQ produzida pelo grupo.
+
 README.md – documento explicativo do trabalho.
 
 ## Critérios de Avaliação
