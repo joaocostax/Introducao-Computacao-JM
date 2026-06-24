@@ -3,7 +3,9 @@ Repositório feito para documentar todas as atividades práticas, relatórios t�
 
 ## Perfil do Académico
 Nome: João Miguel Andrade da Costa 
+
 Curso: Engenharia de Software
+
 Instituição: UniCEUB
 
 ## Matéria
