@@ -55,12 +55,16 @@ README.md – documento explicativo do trabalho.
 
 ## Critérios de Avaliação
 Clareza e correção conceitual – ✅ explicação baseada na cartilha CERT.br.
+
 Criatividade e inovação no formato – ✅ uso de HQ para ilustrar a ameaça.
+
 Aplicação prática dos mecanismos de proteção – ✅ dicas visuais e práticas.
+
 Organização e participação do grupo – ✅ entrega estruturada no GitHub.
 
 ### Reflexão Individual
 Cada integrante respondeu à questão:
+
 “Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?”
 
 Exemplo de resposta: “A inteligência artificial pode ajudar a identificar padrões suspeitos em e-mails e bloquear ataques de phishing antes que cheguem ao usuário.”
