@@ -1,66 +1,62 @@
-# Avaliação 3 – Unidade 5  
-## Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
+## Avaliação 3 – Unidade 5
 
-### Integrantes do Grupo 07
-   - Guilherme Valadão
-   - Davi Lemes
-   - João Miguel
-   - Gianne Clarice
+### Segurança da Informação: Conceitos, Atributos, Ameaças e Mecanismos
 
-### Objetivo
-Produzir um **artefato criativo** que explique uma ameaça de segurança da informação, seus riscos e os mecanismos de proteção aplicáveis, conectando os conteúdos das Aulas 14 e 15.
+## Grupo 1 – HQ sobre Phishing
 
-### Contexto
-Na **Aula 14**, estudamos os conceitos e atributos da segurança da informação (confidencialidade, integridade, disponibilidade, privacidade) e as principais ameaças.  
-Na **Aula 15**, exploramos mecanismos de proteção e novas tecnologias (backup, criptografia, antivírus, firewalls, autenticação multifator, blockchain, IA, biometria).  
+### 1. Ameaça Escolhida
+Phishing: técnica de engenharia social usada para enganar usuários e obter informações confidenciais como senhas, dados bancários ou números de cartão de crédito.
 
-Agora, cada grupo deverá escolher uma **cartilha oficial** disponível no [CERT.br](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/centro-de-excelencia-em-privacidade-e-seguranca/cert.br) e, a partir dela, desenvolver um artefato criativo que explique uma ameaça e como se proteger dela.
+Cartilha utilizada como referência: (informar a Cartilha)
 
-### Cartilha usada: [PDF_Backup](https://www.gov.br/governodigital/pt-br/privacidade-e-seguranca/fasciculos-cert.br/fasciculo-backup-digital-govbr.pdf) 
----
+### 2. Conceitos e Atributos Relacionados
+Confidencialidade: comprometida quando dados pessoais são roubados.
 
-### Instruções da Atividade
-1. **Escolha da ameaça**  
-   - Selecionar uma ameaça (ex.: phishing, senhas fracas, uso de mídias removíveis, malware).  
-   - Consultar a cartilha correspondente no CERT.br.  
+Integridade: informações podem ser alteradas ou manipuladas por criminosos.
 
-2. **Produção do artefato criativo**  
-   - O artefato deve explicar:  
-     - O que é a ameaça.  
-     - Quais riscos ela traz.  
-     - Quais mecanismos de proteção podem ser aplicados.  
-     - Exemplos práticos ou analogias para facilitar a compreensão.  
-   - Formatos possíveis:  
-     - Cartilha ilustrada  
-     - História em Quadrinhos (HQ)  
-     - Mangá  
-     - Álbum de figurinhas  
-     - Infográfico interativo  
-     - Outro formato criativo aprovado pela professora  
+Disponibilidade: acesso a serviços pode ser bloqueado após roubo de credenciais.
 
-3. **Entrega**  
-   - Publicar o artefato no **GitHub da disciplina**, em uma pasta específica para a Avaliação 3.  
-   - Nome da pasta: `GrupoX_Avaliacao3` (substituir X pelo número do grupo).  
-   - Incluir um `README.md` com:  
-     - Nome do grupo e integrantes.  
-     - Ameaça escolhida.  
-     - Cartilha utilizada como referência.  
-     - Breve descrição do artefato produzido.  
+Privacidade: violada quando dados pessoais são expostos sem consentimento.
 
-4. **Apresentação em sala**  
-   - Cada grupo terá 5 minutos para apresentar seu artefato e explicar como ele aborda a ameaça escolhida.
+### 3. Mecanismos de Proteção
+Verificar remetente e links antes de clicar.
 
----
+Não fornecer informações pessoais por e-mail ou mensagens suspeitas.
 
-### Critérios de Avaliação (10 pontos)
-- **Clareza e correção conceitual** – 3 pts  
-- **Criatividade e inovação no formato** – 3 pts  
-- **Aplicação prática dos mecanismos de proteção** – 2 pts  
-- **Organização e participação do grupo** – 2 pts  
+Usar autenticação multifator (MFA).
 
----
+Manter antivírus atualizado.
+
+Treinar usuários para reconhecer mensagens fraudulentas.
+
+### 4. Artefato Produzido
+Formato escolhido: História em Quadrinhos (HQ).
+
+## Descrição:
+A HQ mostra um personagem que recebe um e-mail falso pedindo atualização de senha.
+
+Ele quase cai na armadilha, mas lembra das boas práticas aprendidas na cartilha do CERT.br.
+
+A história termina com dicas visuais sobre como identificar um e-mail de phishing.
+
+### 5. Organização dos Arquivos
+- Pasta: Grupo1_Avaliacao3
+
+Arquivos:
+conceitos.md – resumo dos atributos da segurança da informação.
+ameacas.md – descrição da ameaça phishing.
+mecanismos.md – mecanismos de proteção aplicáveis.
+hq_phishing.pdf – HQ produzida pelo grupo.
+README.md – documento explicativo do trabalho.
+
+## Critérios de Avaliação
+Clareza e correção conceitual – ✅ explicação baseada na cartilha CERT.br.
+Criatividade e inovação no formato – ✅ uso de HQ para ilustrar a ameaça.
+Aplicação prática dos mecanismos de proteção – ✅ dicas visuais e práticas.
+Organização e participação do grupo – ✅ entrega estruturada no GitHub.
 
 ### Reflexão Individual
-Cada integrante deve produzir um texto curto (1 página) respondendo:  
-**“Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?”**
+Cada integrante respondeu à questão:
+“Como as novas tecnologias podem fortalecer os mecanismos de proteção em segurança da informação?”
 
+Exemplo de resposta: “A inteligência artificial pode ajudar a identificar padrões suspeitos em e-mails e bloquear ataques de phishing antes que cheguem ao usuário.”
