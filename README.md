@@ -13,4 +13,4 @@ A disciplina de Introdução à Computação visa fornecer a base conceitual e p
 O objetivo é compreender como o ecossistema tecnológico funciona a nível de hardware, comunicação e gestão estratégica para sustentar o desenvolvimento de sistemas complexos.
 
 ## Conteúdo
-O repositório dividido em Unidades, onde em cada uma delas serão encontrados os respetivos trabalhos, relatórios e estudos de caso desenvolvidos ao longo das aulas
+O repositório dividido em Unidades, onde em cada uma delas serão encontrados os respectivos trabalhos, relatórios e estudos de caso desenvolvidos ao longo das aulas
